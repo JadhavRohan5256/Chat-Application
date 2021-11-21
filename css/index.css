@@ -1,0 +1,16 @@
+/* #Open,#Close{
+    position:relative;
+    top:1.7rem;
+    left:92%;
+} */
+/* #signUp {
+    margin-top:1.5rem;
+} */
+.container {
+    margin-top:100px;
+}
+@media only screen and (max-width:400px) {
+    #Open, #Close{
+        left:85%;
+    }
+}
